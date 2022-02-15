@@ -1,0 +1,8 @@
+revolver
+dagger
+rope
+lead pipe
+poison
+grenade
+sword
+axe
